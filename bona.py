@@ -240,11 +240,11 @@ logo="""\033[1;37m
 
  [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]
 
-    Author   : ZEESHAN AHMAD
+    Author   : BONA VENTR
 
-    Facebook : facebook.com/ZeeshanAhmad
+    Facebook : facebook.com/BoonavEnture
 
-    Connect  : 03047274393
+    Connect  : 205-6561511
 
 
  [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]
@@ -279,9 +279,9 @@ def R():
 
 			print (' [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]')
 
-			print ("\033[1m [!] Tool    : Zeeshan Ahmad")
+			print ("\033[1m [!] Tool    : BOONAVENTURE ")
 
-			print (" [!] Brand   : ZEESHSH")
+			print (" [!] Brand   : BONAVENTURE")
 
 			print(" [!] Expired : No limit")
 
@@ -691,7 +691,7 @@ class __xxx__:
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/+923047274393")
+	os.system("xdg-open https://wa.me/+12056561511")
 
 	time.sleep(3)
 
